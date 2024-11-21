@@ -125,13 +125,3 @@ nav{
         nav > .enlaces > a > li::before:hover {
             width: 100%;
         }
-
-
-footer{
-    background-color: #0F0F0F;
-}
-
-footer > img{
-    width:100%;
-    height: auto;
-}
