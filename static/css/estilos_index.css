@@ -1,5 +1,5 @@
 .index {
-    background-color: #272727;
+    background-color: #131313;
     background-image: url('../imgs/Logos/Fondo_MathCraft_Fondo_Negro_2.png'); /* Imagen de fondo */
     
     /* Ruta de la imagen */
@@ -136,16 +136,16 @@
         display: grid;
         grid-template-columns: auto 1fr;
         column-gap: 1rem;
-        row-gap: 0.5rem;
+        row-gap: 1rem;
     }
 
-    .contenedor_info > .informacion > .cont_datos > h3{
-        font-weight: var(--fuente_semibold);
-        font-size: var(--fuente_tamanio_titulo_3);
-        color: var(--color_blanco);
-    }
+        .contenedor_info > .informacion > .cont_datos > h3{
+            font-weight: var(--fuente_semibold);
+            font-size: var(--fuente_tamanio_titulo_3);
+            color: var(--color_blanco);
+        }
 
-    .contenedor_info > .informacion > .cont_datos > p{
-        font-size: var(--fuente_tamanio_titulo_3);
-        color: var(--color_blanco);
-    }
+        .contenedor_info > .informacion > .cont_datos > p{
+            font-size: var(--fuente_tamanio_titulo_3);
+            color: var(--color_blanco);
+        }
