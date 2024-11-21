@@ -53,3 +53,9 @@ body{
     background-position: center; /* Centra la imagen en el contenedor */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
+
+
+.background {
+    background-color: #131313;
+    background-image: url('../imgs/Logos/Fondo_MathCraft_Fondo_Negro_2.png'); /* Imagen de fondo */
+}

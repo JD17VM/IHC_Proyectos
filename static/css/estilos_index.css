@@ -1,10 +1,3 @@
-.index {
-    background-color: #131313;
-    background-image: url('../imgs/Logos/Fondo_MathCraft_Fondo_Negro_2.png'); /* Imagen de fondo */
-    
-    /* Ruta de la imagen */
-}
-
 .presentacion{
     /*background-color: rgba(0, 128, 0, 0.363);*/
     display: flex;
